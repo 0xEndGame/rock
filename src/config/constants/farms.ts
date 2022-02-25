@@ -13,7 +13,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'ROCK',
     tokenAddresses: {
       97: '',
-      56: '0x5f26be59d28e0b3a9c58e242a58acc05e000f4ad',
+      56: '0x518bf2A89523F98F13D462BcD1Ebf81f22ddC354',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
@@ -29,7 +29,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'ROCK',
     tokenAddresses: {
       97: '',
-      56: '0x5f26be59d28e0b3a9c58e242a58acc05e000f4ad',
+      56: '0x518bf2A89523F98F13D462BcD1Ebf81f22ddC354',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
@@ -190,7 +190,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'ROCK',
     tokenAddresses: {
       97: '',
-      56: '0x5f26be59d28e0b3a9c58e242a58acc05e000f4ad',
+      56: '0x518bf2A89523F98F13D462BcD1Ebf81f22ddC354',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
