@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ROCK-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x2aa709145c82c0bea1eb50ae168b0e53a0f19f41',
+      56: '0x078c01fBD1ea0eaa9F2b9513F20fb162B5789786',
     },
     tokenSymbol: 'ROCK',
     tokenAddresses: {
@@ -24,7 +24,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'ROCK-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0xdf6101ecc3fd56d85793d8563c0519957552c09b',
+      56: '0xcA70fac038Cb2454d5130aEd32A1ef95df4bcB7E',
     },
     tokenSymbol: 'ROCK',
     tokenAddresses: {
